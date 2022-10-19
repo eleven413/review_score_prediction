@@ -1,0 +1,17 @@
+name: review_score_clf
+dependencies:
+    - ipykernel
+    - pandas
+    - numpy
+    - seaborn
+    - matplotlib
+    - scikit-learn
+    - pip
+    - pip:
+        - spacy==3.3.1
+        - textblob==0.15.3
+        - git+https://github.com/laxmimerit/preprocess_kgptalkie.git
+        - contractions
+        - nltk
+        - xgboost
+        - beautifulsoup4==4.9.1
