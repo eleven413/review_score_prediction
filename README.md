@@ -1,2 +1,3 @@
-# review_score_prediction
-An NLP project wherein we try to predict Amazon review scores from 1-5 based on the text body of the review. 
+# Amazon Review Score Classification
+
+An NLP project wherein we classify Amazon review scores as "positive," "negative," or "neutral" based on the text body of the review.
